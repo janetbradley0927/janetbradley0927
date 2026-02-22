@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Scalable+Architecture;High+Performance;Cloud+Optimized" />
 </p>
 
-<p align="center">
-  Scalable Architecture • Clean Code • Production Proven
+<p>
+Experienced and results-driven Senior Web Developer with over 5 years of expertise in building dynamic, user-centric web applications. Skilled in both front-end and back-end development, leveraging technologies such as HTML5, CSS3, JavaScript (React, Angular), Node.js, and PHP to create innovative and scalable web solutions. Strong background in software design, development, and testing, with a deep understanding of performance optimization, security best practices, and cross-browser compatibility.
 </p>
 <p align="center">
   <img src="assets/web2.jpg" width="900"/>
