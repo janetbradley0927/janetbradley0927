@@ -12,6 +12,19 @@
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" />
   <img src="https://img.shields.io/badge/Deployment-Docker%20%7C%20AWS-orange" />
 </p>
+<h1 align="center">🏢 Enterprise Web Application Platform</h1>
+
+<p align="center">
+  High Availability • Scalable Infrastructure • Production Ready
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-production-success" />
+  <img src="https://img.shields.io/badge/architecture-microservice-blue" />
+  <img src="https://img.shields.io/badge/coverage-85%25-brightgreen" />
+  <img src="https://img.shields.io/badge/docker-enabled-blue" />
+  <img src="https://img.shields.io/badge/cloud-AWS-orange" />
+</p>
 
 <!--
 **janetbradley0927/janetbradley0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
