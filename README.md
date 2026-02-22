@@ -4,9 +4,8 @@
 <p align="center">
   Scalable Architecture • Clean Code • Production Proven
 </p>
-
 <p align="center">
-  <img src="assets/hero-banner.png" width="900"/>
+  <img src="https://media.giphy.com/media/your-animation.gif" width="800"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue" />
