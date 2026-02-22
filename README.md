@@ -1,4 +1,17 @@
 ## Hi there 👋
+<h1 align="center">🌐 Enterprise Web Platform</h1>
+
+<p align="center">
+  Scalable Architecture • Clean Code • Production Proven
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue" />
+  <img src="https://img.shields.io/badge/Deployment-Docker%20%7C%20AWS-orange" />
+</p>
 
 <!--
 **janetbradley0927/janetbradley0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
