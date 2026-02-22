@@ -4,6 +4,33 @@
 <p align="center">
   Scalable Architecture • Clean Code • Production Proven
 </p>
+<p align="center">
+  <img src="https://via.placeholder.com/900x500.png?text=Microservice+Architecture+Diagram" width="900"/>
+</p>
+
+---
+
+## 🖥 Application Dashboard UI
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x500.png?text=Enterprise+Dashboard+UI" width="900"/>
+</p>
+
+---
+
+## ☁ Cloud Infrastructure Layout
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x500.png?text=AWS+Infrastructure+Diagram" width="900"/>
+</p>
+
+---
+
+## 🔐 Authentication Flow
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x500.png?text=JWT+Authentication+Flow" width="900"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue" />
