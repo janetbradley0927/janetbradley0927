@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/docker-enabled-blue" />
   <img src="https://img.shields.io/badge/cloud-AWS-orange" />
 </p>
-
 <!--
 **janetbradley0927/janetbradley0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
